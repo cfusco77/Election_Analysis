@@ -42,7 +42,7 @@ The analysis of the election shows that:
   * Denver
   * Arapahoe 
 * The number of votes cast in each county were:
-  * 38,855 in Jefferson
-  * 306,055 in Denver
-  * 24,801 in Arapahoe 
+  * 38,855 in Jefferson, 10.5% of the total votes 
+  * 306,055 in Denver, 82.8% of the total votes 
+  * 24,801 in Arapahoe, 6.7% of the total votes 
 * The county with the largest turnout was Denver.  
