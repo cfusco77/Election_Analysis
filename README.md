@@ -1,10 +1,10 @@
 # Election_Analysis
 ## Project Overview 
-A Colarado board of Elections employee has given you the following tasks to complete the election audit of a recent local congressional election. 
+A Colarado board of Election employees has given you the following tasks to complete the election audit of a recent local congressional election. 
 1. Calculate the total number of votes cast.
 2. Get a complete list of candidates who recieved votes. 
-3. Calculate the total number of votes each candidate recieved 
-4. Calculate the percentage of votes each candidate won, 
+3. Calculate the total number of votes each candidate recieved. 
+4. Calculate the percentage of votes each candidate won.  
 5. Determine the winner of the election based on the popular vote. 
 
 ## Resources
@@ -24,7 +24,7 @@ The analysis of the election shows that:
   Candidate Doane recieved 3.1% of the votes and 11,606 votes 
 
 * The winner of the election was: 
-  Candidate DeGette won the eection with 73.8% of the vote and 272,892 votes. 
+  Candidate DeGette won the election with 73.8% of the vote and 272,892 votes. 
 
 ## Challenge Overview 
 Using the skills attained in this module, conduct a similiar election audit focused on county level results. 
@@ -50,7 +50,7 @@ The analysis of the election shows that:
 ## Election-Analysis Audit Summary and Reccomendations 
 This script can be easily modified to use in future elections. First count the total number of votes. Then following the same rubric, create lists of possible options. Create dictionaries that use categorical dimensions such as candidate_name, county_name, state_name, party_affiliation as the key and votes_cast as the definition. Retrieve vote counts and percentages against any of the aformentioned dimensions. Use logic to declare highest/lowest, winner/loser. 
 
-This script could alsao easily be applied to elections that have more than 3 candidates or more than three counties. If we were to use this same script for all the counties in the US, my reommendation would be to add code which sorts by vote count descending for readability. 
+This script could also easily be applied to elections that have more than 3 candidates or more than three counties. If we were to use this same script for all the counties in the US, my reommendation would be to add code which sorts by vote count descending for readability. 
 
 This analysis could aid in campaigning startegies for candidates the following year. Understanding voter turnout by county would allow candidates to focus their campaigning efforts in areas with higher voter turnout. 
 
