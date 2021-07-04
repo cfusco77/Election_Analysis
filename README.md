@@ -46,3 +46,12 @@ The analysis of the election shows that:
   * 306,055 in Denver, 82.8% of the total votes 
   * 24,801 in Arapahoe, 6.7% of the total votes 
 * The county with the largest turnout was Denver.  
+
+## Election-Analysis Audit Summary and Reccomendations 
+This script can be easily modified to use in future elections. First count the total number of votes. Then following the same rubric, create lists of possible options. Create dictionaries that use categorical dimensions such as candidate_name, county_name, state_name, party_affiliation as the key and votes_cast as the definition. Retrieve vote counts and percentages against any of the aformentioned dimensions. Use logic to declare highest/lowest, winner/loser. 
+
+This script could alsao easily be applied to elections that have more than 3 candidates or more than three counties. If we were to use this same script for all the counties in the US, my reommendation would be to add code which sorts by vote count descending for readability. 
+
+This analysis could aid in campaigning startegies for candidates the following year. Understanding voter turnout by county would allow candidates to focus their campaigning efforts in areas with higher voter turnout. 
+
+Lastly, candidates might want to see a breakdown of votes earned by county to get a better understanding of what demographics they are resonating with and where they are falling short. 
